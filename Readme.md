@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxDataView - How to highlight the selected item
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e5035/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to highlight an item of ASPxDataView if a user focused it by clicking.</p>
